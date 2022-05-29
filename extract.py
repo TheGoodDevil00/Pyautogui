@@ -5,7 +5,7 @@ print (wikipedia.summary(infoTopic))
 
 tryit = input("Do you want to perform a manual search? (y/n)")
 a = 'y'
-b = 'n'
+
 if tryit == a:
     print("Program Initiated")
     time.sleep(2)
